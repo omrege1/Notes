@@ -1,0 +1,3 @@
+Advantages of Python
+Focuses more on developer productivity and happiness
+Less strict with its technical and syntactical requirements
