@@ -1,3 +1,7 @@
 Advantages of Python
 Focuses more on developer productivity and happiness
 Less strict with its technical and syntactical requirements
+shorter programs
+Object oriented standard
+ships a large standard library of utility and functions
+Runs slower than compiled languages like Java or C++
